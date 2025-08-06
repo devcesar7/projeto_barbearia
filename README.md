@@ -2,15 +2,6 @@
 
 Este é um sistema web desenvolvido para uma barbearia fictícia chamado **CORTAÌ**, com o objetivo de facilitar o agendamento de cortes de cabelo, barbas e serviços relacionados. O projeto foi desenvolvido durante as aulas como atividade prática.
 
-## 👨‍💻 Desenvolvedores
-
-- **Rômulo Matheus**
-- **Vitor Francisco**
-- **José Victor**
-- **Jamilly Rejane**
-- **Giovanna Lopes**
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 
